@@ -25,6 +25,7 @@
 **/
   #ifndef USIZE
 #include <string.h>
+#include <stdlib.h>
 #include "include_/conf.h"
 #include "include_/trle.h"
 #include "trle_.h"
